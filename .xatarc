@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://MattHubbell-s-workspace-25pf8p.us-east-1.xata.sh/db/xata-nextjs",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
